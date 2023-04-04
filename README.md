@@ -32,7 +32,7 @@ After inserting the promt into the ChatGPT it represents a multilingual text-bas
 
 ![GPT-4 starting scene]([images/cat.png](https://cdn.discordapp.com/attachments/1088360914278948965/1089001343542370334/Screenshot_20230325_023346_Chrome.jpg)
 
-![Cast and Game Mode selection]([images/cat.png](https://cdn.discordapp.com/attachments/1088360914278948965/1089001343873732678/Screenshot_20230325_023402_Chrome.jpg)
+![Cast and Game Mode selection](https://cdn.discordapp.com/attachments/1088360914278948965/1089001343873732678/Screenshot_20230325_023402_Chrome.jpg)
 
 ![Just a bridge](https://media.discordapp.net/attachments/1088360914278948965/1089001345475948615/Screenshot_20230325_023538_Chrome.jpg)
 
@@ -40,7 +40,6 @@ After inserting the promt into the ChatGPT it represents a multilingual text-bas
 
 ## Videos
 
-<video width="320" height="240" controls>
-  <source src="uploads/2023-04-03_01-24-23.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![Development](uploads/2023-04-03_01-24-23.mp4)
+
+<video src="https://github.com/Cs4k1Sr4C/OpeaniA.RPG/blob/main/uploads/2023-04-03_01-24-23.mp4" controls="controls" style="max-width: 730px;"></video>
