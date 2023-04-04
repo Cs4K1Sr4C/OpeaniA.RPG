@@ -1,4 +1,4 @@
-# OpeaniA - RPG D&D game with AI (GPT-3) integration
+# OpeaniA - Multilingual RPG D&D game with AI (GPT-3) integration
 
 ## Accessibility and about the development
 
