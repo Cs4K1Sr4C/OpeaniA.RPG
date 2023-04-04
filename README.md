@@ -18,7 +18,9 @@ The prompts are available on the [FlowGPT](https://www.flowgpt.com) portal.
 The prompts are also available on [my personal profile page](https://flowgpt.com/user/j9xjN6codP1fjQiUNa9t_) which is located on the FlowGPT portal.
 
 ## About the game
-After inserting the promt into the ChatGPT it represents a multilingual text-based Dungeons & Dragons adventure game with images and chosable options. There are several character casts, game modes and randomized story-line at each stating of the game. To start the game just simply send the second promt ```/start [the selected language's code] [name of the character]```.
+After inserting the promt into the ChatGPT it represents a multilingual text-based Dungeons & Dragons adventure game with images and chosable options. There are several character casts, game modes and randomized story-line at each stating of the game. To start the game just simply send the second promt:
+
+```/start [the selected language's code] [name of the character]```.
 
 ## Screenshots & Videos (Game)
 
@@ -32,7 +34,7 @@ After inserting the promt into the ChatGPT it represents a multilingual text-bas
 
 ![Cast and Game Mode selection]([images/cat.png](https://cdn.discordapp.com/attachments/1088360914278948965/1089001343873732678/Screenshot_20230325_023402_Chrome.jpg)
 
-![Just a bridge...](https://media.discordapp.net/attachments/1088360914278948965/1089001345475948615/Screenshot_20230325_023538_Chrome.jpg)
+![Just a bridge](https://media.discordapp.net/attachments/1088360914278948965/1089001345475948615/Screenshot_20230325_023538_Chrome.jpg)
 
 ![The Wizard](https://media.discordapp.net/attachments/1088360914278948965/1089001346302234634/Screenshot_20230325_023704_Chrome.jpg)
 
