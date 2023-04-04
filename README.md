@@ -30,7 +30,7 @@ After inserting the promt into the ChatGPT it represents a multilingual text-bas
 
 ![Map as an AI generated picture](https://cdn.discordapp.com/attachments/1088360914278948965/1088626412652593244/Screenshot_20230324_015202_Chrome.jpg)
 
-![GPT-4 starting scene]([images/cat.png](https://cdn.discordapp.com/attachments/1088360914278948965/1089001343542370334/Screenshot_20230325_023346_Chrome.jpg)
+![GPT-4 starting scene](https://cdn.discordapp.com/attachments/1088360914278948965/1089001343542370334/Screenshot_20230325_023346_Chrome.jpg)
 
 ![Cast and Game Mode selection](https://cdn.discordapp.com/attachments/1088360914278948965/1089001343873732678/Screenshot_20230325_023402_Chrome.jpg)
 
