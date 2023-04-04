@@ -11,9 +11,14 @@ The development process was continuously posted during the develop on the OpenAI
 
 The prompts are available on the [FlowGPT](https://www.flowgpt.com) portal.
 
-The prompt is also available on [this link](https://flowgpt.com/user/j9xjN6codP1fjQiUNa9t_) which is the profile page of mine on the FlowGPT portal.
+[ChatGPT version](https://flowgpt.com/playground/eFTzXPCBPDNTFgsDeTZ8W)
+
+[OpenAI API JSON version](https://flowgpt.com/playground/Qo07gBegPonYxA7_nVPZB)
+
+The prompts are also available on [my personal profile page](https://flowgpt.com/user/j9xjN6codP1fjQiUNa9t_) which is located on the FlowGPT portal.
 
 ## About the game
+After inserting the promt into the ChatGPT it represents a multilingual text-based Dungeons & Dragons adventure game with images and chosable options. There are several character casts, game modes and randomized story-line at each stating of the game. To start the game just simply send the second promt ```/start [the selected language's code] [name of the character]```.
 
 ## Screenshots (Development)
 
