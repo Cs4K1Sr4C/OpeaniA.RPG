@@ -20,6 +20,25 @@ The prompts are also available on [my personal profile page](https://flowgpt.com
 ## About the game
 After inserting the promt into the ChatGPT it represents a multilingual text-based Dungeons & Dragons adventure game with images and chosable options. There are several character casts, game modes and randomized story-line at each stating of the game. To start the game just simply send the second promt ```/start [the selected language's code] [name of the character]```.
 
-## Screenshots (Development)
-
 ## Screenshots & Videos (Game)
+
+![The first successful image](uploads/opeania.png)
+
+![ASCII map](https://cdn.discordapp.com/attachments/1088360914278948965/1088606917481476126/Screenshot_20230324_003330_Chrome.jpg)
+
+![Map as an AI generated picture](https://cdn.discordapp.com/attachments/1088360914278948965/1088626412652593244/Screenshot_20230324_015202_Chrome.jpg)
+
+![GPT-4 starting scene]([images/cat.png](https://cdn.discordapp.com/attachments/1088360914278948965/1089001343542370334/Screenshot_20230325_023346_Chrome.jpg)
+
+![Cast and Game Mode selection]([images/cat.png](https://cdn.discordapp.com/attachments/1088360914278948965/1089001343873732678/Screenshot_20230325_023402_Chrome.jpg)
+
+![Just a bridge...](https://media.discordapp.net/attachments/1088360914278948965/1089001345475948615/Screenshot_20230325_023538_Chrome.jpg)
+
+![The Wizard](https://media.discordapp.net/attachments/1088360914278948965/1089001346302234634/Screenshot_20230325_023704_Chrome.jpg)
+
+## Videos
+
+<video width="320" height="240" controls>
+  <source src="uploads/2023-04-03_01-24-23.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
