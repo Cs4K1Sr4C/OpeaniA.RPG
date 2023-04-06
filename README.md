@@ -20,7 +20,7 @@ The prompts are available on the [FlowGPT](https://www.flowgpt.com) portal.
 The prompts are also available on [my personal profile page](https://flowgpt.com/user/j9xjN6codP1fjQiUNa9t_) which is located on the FlowGPT portal.
 
 ## About the game
-After inserting the promt into the ChatGPT it represents a multilingual text-based Dungeons & Dragons adventure game with images and chosable options. There are several character casts, game modes and randomized story-line at each stating of the game. To start the game just simply send the second promt:
+After inserting the promt into the ChatGPT it represents a multilingual text-based Dungeons & Dragons adventure game with images and chosable options. There are several casts, game modes and randomized story-line at each starting of the game. To start the game just simply send the second prompt:
 
 ```/start [the selected language's code] [name of the character]```.
 
