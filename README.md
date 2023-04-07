@@ -24,6 +24,8 @@ After inserting the promt into the ChatGPT it represents a multilingual text-bas
 
 ```/start [the selected language's code] [name of the character]```.
 
+## Coffee time
+
 <a href="https://www.buymeacoffee.com/cs4k1sr4c"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=cs4k1sr4c&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 ## Screenshots & Videos (Game)
