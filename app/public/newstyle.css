@@ -1,0 +1,198 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: black !important;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+#loading {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 4;
+}
+
+#snake {
+  width: 100%;
+  height: 65%;
+  position: fixed;
+  background-repeat: no-repeat;
+  background-image: url("./assets/snake.png");
+  top: 15%;
+  left: 0%;
+  background-size: contain;
+  z-index: 1;
+  animation: spin 6s linear infinite;
+  background-position: 50% 50%;
+}
+
+#loadingText {
+  width: 10%;
+  height: 15%;
+  position: fixed;
+  background-repeat: no-repeat;
+  background-image: url("./assets/loadingText.png");
+  top: 45svh;
+  left: 45svw;
+  background-size: contain;
+  z-index: 3;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(-360deg);
+  }
+}
+
+#dialog {
+  position: absolute;
+    width: 14vw;
+    height: 14vh;
+    top: 20vh;
+    left: 43vw;
+}
+
+#castle {
+  position: fixed;
+  z-index: -1;
+  width: 60%;
+  right: 5vw;
+  height: 95vh;
+  bottom: 0vh;
+}
+
+#avatar {
+  position: fixed;
+  width: 13vw;
+  height: 25dvh;
+  bottom: 11vh;
+  left: 25vw;
+  z-index: -1;
+}
+
+#frame {
+  position: fixed;
+  z-index: 0;
+}
+
+/* Styles for small screens */
+@media only screen and (max-width: 767px) {
+  #dialog {
+    position: absolute;
+    width: 14vw;
+    height: 14vh;
+    top: 20vh;
+    left: 43vw;
+  }
+
+  #castle {
+    width: 60%;
+    right: 5vw;
+    height: 95vh;
+    bottom: 0vh;    
+  }
+
+  #avatar {
+    width: 13vw;
+    height: 25dvh;
+    bottom: 11vh;
+    left: 25vw;
+    z-index: -1;
+  }
+
+  #frame {
+
+  }
+}
+
+@media screen and (min-width: 1500px) and (max-width: 2000px) {
+  .container {
+    width: 100%;
+    left: 0;
+    right: 0;
+  }
+
+  #dialog {
+    position: absolute;
+    width: 20vw;
+    height: 20vh;
+    top: 10vh;
+    left: 35vw;
+  }
+  
+  #castle {
+    position: fixed;
+    z-index: -1;
+    width: 65%;
+    height: 90%;
+    bottom: 0vh;
+    right: 5vw;
+  }
+  
+  #avatar {
+    width: 13vw;
+    height: 25dvh;
+    bottom: 11vh;
+    left: 25vw;
+    z-index: -1;
+  }
+  
+  #frame {
+    position: fixed;
+    width: inherit;
+    height: inherit;
+    z-index: 0;
+  }
+}
+
+@media screen and (min-width: 2560px) {
+  .container {
+    width: 80%;
+    left: 10%;
+    right: 10%;
+  }
+
+  #dialog {
+    position: absolute;
+    width: 14vw;
+    height: 14vh;
+    top: 20vh;
+    left: 33vw;
+  }
+  
+  #castle {
+    position: fixed;
+    z-index: -1;
+    width: 50%;
+    height: 75%;
+    bottom: 3vh;
+    right: 15vw;
+  }
+  
+  #avatar {
+    width: 10vw;
+    height: 25dvh;
+    bottom: 11vh;
+    left: 30vw;
+    z-index: -1;
+  }
+  
+  #frame {
+    position: fixed;
+    width: inherit;
+    height: inherit;
+    z-index: 0;
+  }
+}

@@ -1,0 +1,80 @@
+:root {
+  --rs-navbar-inverse-hover-bg: #497bc2;
+  --rs-btn-default-hover-bg: transparent;
+}
+
+.optionButton {
+  height: 4em;
+  background-color: #4a85a3;
+  box-shadow: 0px 6px 10px black, inset 0px -6px 10px black;
+  border: 1px solid black;
+  font-weight: bold;
+  transition: all 0.6s linear;
+  border-radius: 0;
+}
+
+.optionButton:hover {
+  background-color: #c15e37;
+  transition: all 0.6s linear;
+  color: black;
+  box-shadow: 0px 0px 10px black, inset 0px 0px 10px black;
+  border-radius: 0;
+}
+
+.customInput {
+  height: 4em;
+  box-shadow: 0px 6px 10px black, inset 0px -6px 10px black;
+  border: 1px solid black;
+  font-weight: bold;
+  transition: all 0.6s linear;
+  border-radius: 0;
+}
+
+.customInput.rs-input:focus, .customInput.rs-input:focus-visible, .customInput.rs-input:hover {
+  border-color: black !important;
+  outline: none !important;
+}
+
+.customMessage {
+  background-color: transparent;
+  box-shadow: 0px 0px 10px black, inset 0px 0px 10px black;
+  background-image: linear-gradient(rgb(28, 83, 86), rgb(0, 0, 0));
+  border: 1px solid black;
+  border-radius: 0;
+}
+
+.customMessage.warning {
+  background-image: linear-gradient(rgb(119, 91, 38), rgb(0, 0, 0));
+}
+
+.rs-navbar-inverse .rs-dropdown .rs-dropdown-toggle:focus,
+.rs-navbar-inverse .rs-dropdown .rs-dropdown-toggle:hover,
+.rs-navbar-inverse .rs-navbar-item:focus,
+.rs-navbar-inverse .rs-navbar-item:hover {
+  background-color: transparent;
+}
+
+.rs-drawer-header {
+  border: none;
+}
+
+.rs-radio-group-picker {
+  border: none !important;
+}
+
+[data-testid="loading-spin"] {
+  box-shadow: 0px 0px 20px 10px black, inset 0px 0px 20px 10px #000000b3;
+  display: inline-block !important;
+  border-style: groove !important;
+  border-radius: 30% !important;
+  animation-iteration-count: infinite !important;
+  animation-name: spin !important;
+  height: 20em !important;
+  width: 20em !important;
+  border-width: 2em !important;
+  animation-timing-function: ease-in-out !important;
+  animation-direction: normal !important;
+  animation-duration: 3s !important;
+  border-color: rgb(77, 115, 227) rgb(50, 187, 123) rgb(217, 83, 83)
+    rgb(167, 205, 30) !important;
+}
